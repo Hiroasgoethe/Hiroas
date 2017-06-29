@@ -38,6 +38,7 @@ True decentralization and automation are carried out in the background, where Hi
   - Coins accepted are Bitcoin, Ethereum and Monero
   - If you want to join, please contact us at coin@hiroas.xyz
   - All donations made prior can benefit your position in the investor pool. (Dont forget to include your Wallet and E-Mail Adress)
+  - 1.0000001 Hiroas equals to 0.20$
 
 # Goals:
   - A decentralized System
